@@ -1,0 +1,16 @@
+name: flower_env
+channels:
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - requests
+    - selenium
+    - pandas
+    - Pillow
+    - webdriver_manager
+    - gi-scraper
+    - genericpath
+    - lxml
+    - bs4
+    - serpapi
