@@ -7,3 +7,4 @@ chromedriver
 data/
 env/
 *.pkl
+webdriver/
